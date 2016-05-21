@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.pg2016"
+id = "com.JQuery-Mobile.pg2016"
 version = "1.0.0">
 
 <name>JQuery Mobile-Murillo</name>
